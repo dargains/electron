@@ -1,0 +1,14 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "Andre Dargains",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.2"
+  }
+}
